@@ -11,3 +11,4 @@ Description of assignment topics:
 - Assignment 2: Based on linear regression, polynomial regression, and logistic regression.
 - Assignment 3: Based on K-Means Clustering and Hierarchal clustering.
 - Assignment 4: Based on Decision Trees, Classification and Regression Trees and Gaussian Mixture Modelling.
+- Assignment 5: Based on Artificial Neural Networks (from scratch!)
